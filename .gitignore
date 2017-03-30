@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .idea
 composer.lock
 *.log
 thinkphp
+=======
+/composer.lock
+/vendor
+.idea
+.DS_Store
+>>>>>>> f9cfb6ef3b963690f691c7269b625d0731484170
